@@ -1,11 +1,11 @@
 # LinuxGuide
   
-caffe_bashrc : ivcl_server bashrc save file
-caffe_makefile.config : ivcl_server makefile.config save file
+caffe_bashrc : ivcl_server bashrc save file  
+caffe_makefile.config : ivcl_server makefile.config save file  
 
   
-gputestcode 1 : gpu available check
-gputestcode 2 : gpu cnn check, gpu distribution check
+gputestcode 1 : gpu available check  
+gputestcode 2 : gpu cnn check, gpu distribution check  
   
 ---  
 - 이슈에 자세한 내용을 기록
