@@ -19,6 +19,9 @@ gputestcode 2 : gpu cnn check, gpu distribution check
 - 도커 공부 기록
 
 ---
+### WIKI
+- S2VT( Sequence to Sequence -- Video to Text )  
+---  
 ### Reference
 
 gputestcode : [http://solarisailab.com/archives/303](http://solarisailab.com/archives/303)
