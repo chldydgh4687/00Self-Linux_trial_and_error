@@ -2,6 +2,7 @@
 
 - 이슈에 자세한 내용과 여러 네트워크에 대한 해결 방안을 기술
 - 연구에서 참고했던 보고서 리뷰(WIKI)
+- 리눅스 서버 관리 도커에 대한 리뷰(WIKI)
 
 ---  
 ## file abstraction 
@@ -21,6 +22,7 @@ gputestcode 2 : gpu cnn check, gpu distribution check
 ---
 ### WIKI
 - S2VT( Sequence to Sequence -- Video to Text ) - video captioning
+- Docker
 ---  
 ### Reference
 
