@@ -16,13 +16,16 @@ gputestcode 2 : gpu cnn check, gpu distribution check
   
 ---  
 ### PROJECTS
-- SV2T 기록
-- 도커 공부 기록
-
+- S2VT 기록 (closed)
+- 도커 공부 기록 (closed)
+- S2VT + COCO-EVALUATION (closed) 
+- INCEPTION
 ---
 ### WIKI
 - S2VT( Sequence to Sequence -- Video to Text ) - video captioning
 - Docker
+- COCO-EVALUATION
+- Inception_V4
 ---  
 ### Reference
 
