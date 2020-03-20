@@ -8,9 +8,9 @@ def main():
 
     with h5py.File(filename, 'r') as f:
         # List all groups
-        f1 = open("msvd_inceptionv4_train.txt", 'w')
-        f2 = open("msvd_inceptionv4_val.txt", 'w')
-        f3 = open("msvd_inceptionv4_test.txt", 'w')
+        f1 = open("yt_allframes_vgg_fc7_train.txt", 'w')
+        f2 = open("yt_allframes_vgg_fc7_val.txt", 'w')
+        f3 = open("yt_allframes_vgg_fc7_test.txt", 'w')
 
         for vid, c in tqdm(enumerate(f.keys())):
             # train
